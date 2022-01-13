@@ -1,0 +1,4 @@
+train_set: 
+val_set: 
+checkpoint: adversarial_resnet50.pth
+model_name: resnet50
